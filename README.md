@@ -4,11 +4,17 @@
 
 ///Тестирование коллекций
 BenchmarkRunner.Run<ListTest>();
+
 BenchmarkRunner.Run<HashSetTest>();
+
 BenchmarkRunner.Run<ConcurrentStackTest>();
+
 BenchmarkRunner.Run<ArrayListTest>();
+
 BenchmarkRunner.Run<ConcurrentBagTest>();
+
 BenchmarkRunner.Run<QueueTest>();
+
 BenchmarkRunner.Run<PriorityQueueTest>();
 BenchmarkRunner.Run<LinkedListTest>();
 BenchmarkRunner.Run<DictionaryTest>();
