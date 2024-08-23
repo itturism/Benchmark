@@ -1,1 +1,1 @@
-# BenchmarkCollection
+Тут собраны benchmark тесты популярных классов и структур
